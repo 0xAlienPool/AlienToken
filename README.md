@@ -21,7 +21,7 @@
 
    // SPDX-License-Identifier: MIT
 
-   contract MarsToken { string public name = "AlienToken"; string public symbol = "ALIEN"; uint8 public decimals = 18; uint256 public totalSupply = 1000000000;
+   contract AlienToken { string public name = "AlienToken"; string public symbol = "ALIEN"; uint8 public decimals = 18; uint256 public totalSupply = 1000000000;
 
    mapping (address => uint256) public balances; address public owner;
 
