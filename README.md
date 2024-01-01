@@ -36,11 +36,17 @@ Compile AlienToken.sol in the Solidity Compiler.
 ## Deploy the Smart Contract
 
 -- Go to "Deploy & Transactions" in Remix IDE.
+
 -- Change the environment to "Injected Provider" and connect your Metamask to the Redbelly network.
+
 -- Press "Deploy" and confirm the transaction in Metamask.
+
 -- If prompted, click "Send Transaction" and confirm.
--- Verify Smart Contract Deployment
+
+-- Verify Smart Contract Deployment.
+
 -- Copy the deployed smart contract address.
+
 
 Check if the smart contract is visible on the Redbelly Explorer.
 
